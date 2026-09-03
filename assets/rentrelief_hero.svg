@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#dff7f4"/><stop offset="1" stop-color="#eef1ff"/></linearGradient></defs>
+<rect width="1200" height="380" rx="30" fill="url(#a)"/>
+<g fill="#fff" stroke="#d7e5ed">
+<rect x="70" y="95" width="220" height="205" rx="20"/><rect x="320" y="60" width="220" height="240" rx="20"/>
+<rect x="570" y="110" width="220" height="190" rx="20"/><rect x="820" y="80" width="300" height="220" rx="20"/>
+</g>
+<g fill="#59b6aa">
+<rect x="104" y="160" width="54" height="54" rx="8"/><rect x="183" y="160" width="54" height="54" rx="8"/>
+<rect x="354" y="125" width="54" height="54" rx="8"/><rect x="433" y="125" width="54" height="54" rx="8"/>
+</g>
+<g fill="#5b7cfa">
+<path d="M610 250 L680 195 L745 225 L775 175 L775 270 L610 270Z"/>
+<path d="M860 255 C900 180 950 205 990 145 C1040 100 1080 145 1120 110 L1120 270 L860 270Z" opacity=".85"/>
+</g>
+<g fill="#18334b" font-family="Arial,Helvetica,sans-serif">
+<text x="70" y="55" font-size="30" font-weight="800">RENTRELIEF</text>
+<text x="820" y="330" font-size="20" fill="#607586">rent • utilities • commute • income</text>
+</g>
+</svg>
